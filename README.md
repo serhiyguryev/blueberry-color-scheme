@@ -23,8 +23,8 @@ Blueberry: a dark color scheme for the KDE Plasma 5/6 desktop environment.
 
 You can download this color scheme here:
 
-* KDE Store: [https://store.kde.org/p/2130389](https://store.kde.org/p/2130389)
-* Pling: [https://www.pling.com/p/2130389](https://www.pling.com/p/2130389)
+* KDE Store: [https://store.kde.org/p/2148021](https://store.kde.org/p/2148021)
+* Pling: [https://www.pling.com/p/2148021](https://www.pling.com/p/2148021)
 
 Or you can manually copy the [blueberry.colors](https://raw.githubusercontent.com/serhiyguryev/blueberry-color-scheme/main/color-schemes/blueberry.colors) file to your home directory `.local/share/color-schemes/` (right-click on the link and choose `Save Link As...` from the menu that opens).
 
