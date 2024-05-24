@@ -39,7 +39,6 @@ If you don't want Breeze folders to respect your color scheme's "Selection" colo
 
 You can support the further development of this project by choosing a convenient way to donate:
 
-* **Debit or Credit Card (donation page)**: [https://donatello.to/serhiyguryev](https://donatello.to/serhiyguryev)
 * **Bitcoin (BTC)**: bc1q6qtnwc2pdktvl48mr9hf0qmhaxfm7xseftp78a
 * **Ether (ETH)**: 0x185e4FB1f662223B011dedbBd42A444891b094f5
 
