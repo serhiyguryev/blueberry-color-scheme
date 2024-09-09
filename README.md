@@ -35,6 +35,11 @@ If you don't want Breeze folders to respect your color scheme's "Selection" colo
 > [!IMPORTANT]
 > This tip works only in Plasma 5 (in Plasma 6, such changes lead to unexpected results when dark theme icons start to appear as light theme icons).
 
+## You may also like
+
+* openSUSE [Splash Screen](https://github.com/serhiyguryev/opensuse-splashscreen) for Plasma 6
+* A [Plymouth theme](https://github.com/serhiyguryev/plymouth-theme-opensuse) that displays the openSUSE logotype
+
 ## Support my work
 
 You can support the further development of this project by choosing a convenient way to donate:
