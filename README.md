@@ -40,13 +40,6 @@ If you don't want Breeze folders to respect your color scheme's "Selection" colo
 * openSUSE [Splash Screen](https://github.com/serhiyguryev/opensuse-splashscreen) for Plasma 6
 * A [Plymouth theme](https://github.com/serhiyguryev/plymouth-theme-opensuse) that displays the openSUSE logotype
 
-## Support my work
-
-You can support the further development of this project by choosing a convenient way to donate:
-
-* **Bitcoin (BTC)**: bc1q6qtnwc2pdktvl48mr9hf0qmhaxfm7xseftp78a
-* **Ether (ETH)**: 0x185e4FB1f662223B011dedbBd42A444891b094f5
-
 ## License
 
 Licensed under the [GNU General Public License v3.0](https://github.com/serhiyguryev/blueberry-color-scheme/blob/main/LICENSE)
